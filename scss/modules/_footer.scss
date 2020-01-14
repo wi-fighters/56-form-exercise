@@ -1,0 +1,5 @@
+@use "../variables/color" as *;
+
+footer {
+    border: 3px solid $brand-color;
+}

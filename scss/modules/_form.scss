@@ -1,0 +1,5 @@
+@use "../variables/color" as *;
+
+form {
+    background-color: $brand-color;
+}
